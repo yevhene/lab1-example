@@ -1,0 +1,15 @@
+{
+  "name": "lab1-example",
+  "version": "0.1.0",
+  "description": "First lab for CPP course",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Yevhen Shemet",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
